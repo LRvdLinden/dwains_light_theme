@@ -25,5 +25,5 @@
 <p align="center">A Lovelace light theme based on Dwains Dashboard</p>
 
 
-<p align="center">Created by <a href="https://github.com/LRvdLinden">Léon van der Linden, Inspired by Dwains Dashboard</a>
+<p align="center">Created by <a href="https://github.com/LRvdLinden">Léon van der Linden</a>
 </p> 

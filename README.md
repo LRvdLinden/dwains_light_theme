@@ -1,12 +1,12 @@
 <h1 align="center">Dwains Light Theme</h1> 
 
 
-
-  <a href="https://github.com/LRvdLinden/weather_dd_addon">
-    <img src="https://img.shields.io/github/v/release/LRvdLinden/weather_dd_addon" />
+<p align="center">
+  <a href="https://github.com/LRvdLinden/dwains_light_theme">
+    <img src="https://img.shields.io/github/v/release/LRvdLinden/dwains_light_theme" />
   </a>
-      <a href="https://github.com/LRvdLinden/weather_dd_addon">
-    <img src="https://img.shields.io/github/downloads/LRvdLinden/weather_dd_addon/latest/total?color=purple&label=%20release%20Downloads" />
+      <a href="https://github.com/LRvdLinden/dwains_light_theme">
+    <img src="https://img.shields.io/github/downloads/LRvdLinden/dwains_light_theme/latest/total?color=purple&label=%20release%20Downloads" />
   </a>
     <a href="https://github.com/LRvdLinden/">
     <img src="https://img.shields.io/github/followers/LRvdLinden?style=social" />

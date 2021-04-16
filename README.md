@@ -39,7 +39,7 @@ frontend:
 
 ## Installation Dwains Light Theme
 ---
-- Download the `dwains_light_theme` folder and place in your `config/themes` directory.
+- Download the `themes` folder and place `dwains_light_theme.yaml` into your `config/themes` directory.
 - Reboot Home Assistant
 
 ## Selecting Dwains Light Theme

@@ -46,6 +46,7 @@
 ## Set HA theme for day and night
 ---
 - When you want to switch automatic between the Dark and Light theme based on the sun, please copy the file `auto_switch_theme.yaml` into youre `automations.yaml` or `directory`
+- Reboot Home Assistant
 ```yaml
 - alias: Set HA theme for day and night
   id: set_theme_for_day_and_night

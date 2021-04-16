@@ -46,8 +46,7 @@
 ## Set HA theme for day and night
 ---
 - When you whant to switch automatic between the Dark and Light theme based on the sun, please copy this code in youre `automations.yaml` or `directory`
-```
-yaml
+```yaml
 - alias: Set HA theme for day and night
   id: set_theme_for_day_and_night
   trigger:

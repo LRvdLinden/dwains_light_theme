@@ -40,7 +40,7 @@
 - Click on youre profile picture
 - By `themes` you need to select Dwains Light Theme 
 
-![image](https://user-images.githubusercontent.com/77990847/114926311-7bf1e000-9e30-11eb-8193-d669545a642d.png)
+![image](https://user-images.githubusercontent.com/77990847/114995688-61565000-9e9e-11eb-9787-e1d1a672e6bb.png)
 
 
 ## Result

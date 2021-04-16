@@ -1,4 +1,3 @@
-  
 - alias: 'Set theme at startup'
   trigger:
     platform: homeassistant
@@ -6,4 +5,4 @@
   action:
     service: frontend.set_theme
     data:
-      name: Dwains Dark Theme
+      name: Dwains Light Theme

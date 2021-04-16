@@ -28,7 +28,14 @@
 ## Prerequisite
 ---
 - Make sure you can access youre Home Assistant config files with [Samba Share](https://www.youtube.com/watch?v=udqY2CYzYGk)
-
+- Make shure you have created a `themes` folder in youre `config/` directory and addes the following code to youre `configuration.yaml`
+```yaml
+# Core Configuration
+default_config:
+frontend:
+  themes: !include_dir_merge_named themes/
+```
+- Reboot Home Assistant or after insatllation Dwains Light Theme
 
 ## Installation Dwains Light Theme
 ---

@@ -107,7 +107,7 @@ frontend:
   dwains-theme-unavailable: '#303030'
   dwains-theme-off: '#909090' 
 ```
-## icon meanings
+## State icons 🎨
 ---
 | Name | Type | Default | Since | 
 |------|:--------------:|:-------:|:-----:|

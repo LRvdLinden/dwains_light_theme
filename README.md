@@ -94,7 +94,7 @@ frontend:
 ## Fonts 🎨
 ---
 ### Theme font (HA)
---
+---
 - If you whant to change the font of HA, you can change the Google font in theme theme file on line `8`
 ```yaml
 primary-font-family: 'Open Sans' # <- if you whant to change the font, fill in de richt google font name between ''

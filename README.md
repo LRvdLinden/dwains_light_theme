@@ -91,6 +91,15 @@ frontend:
       name: Dwains Light Theme
 ```
 
+## State icons 🎨
+---
+| Name | Type | Default | Since | 
+|------|:--------------:|:-------:|:-----:|
+| state icon | color | ![ ](https://dummyimage.com/20x10/299ec2&amp;text=+) `#299ec2` |  v2.0.1
+| active icon  | color | ![ ](https://dummyimage.com/20x10/ffd60a&amp;text=+) `#ffd60a` |  v2.0.1
+| unavailable icon | color | ![ ](https://dummyimage.com/20x10/a9b1bc&amp;text=+) `#a9b1bc` |  v2.0.1
+
+
 ## Fonts 🎨
 ---
 ### Theme font (HA)
@@ -106,14 +115,6 @@ primary-font-family: 'Open Sans' # <- if you whant to change the font, fill in d
 - Fill in the right Google font name between `''`
 - Reboot Home Assistant
 
-
-## State icons 🎨
----
-| Name | Type | Default | Since | 
-|------|:--------------:|:-------:|:-----:|
-| state icon | color | ![ ](https://dummyimage.com/20x10/299ec2&amp;text=+) `#299ec2` |  v2.0.1
-| active icon  | color | ![ ](https://dummyimage.com/20x10/ffd60a&amp;text=+) `#ffd60a` |  v2.0.1
-| unavailable icon | color | ![ ](https://dummyimage.com/20x10/a9b1bc&amp;text=+) `#a9b1bc` |  v2.0.1
 
 ## Result
 ---

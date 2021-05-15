@@ -97,11 +97,11 @@ frontend:
 
 ## State icons 🎨
 ---
-| Name | Type | Default | Since | 
-|------|:--------------:|:-------:|:-----:|
-| state icon | color | ![ ](https://dummyimage.com/20x10/299ec2&amp;text=+) `#299ec2` |  v2.0.1
-| active icon  | color | ![ ](https://dummyimage.com/20x10/ffd60a&amp;text=+) `#ffd60a` |  v2.0.1
-| unavailable icon | color | ![ ](https://dummyimage.com/20x10/a9b1bc&amp;text=+) `#a9b1bc` |  v2.0.1
+| Name | Type | Default | Since | Code |
+|------|:--------------:|:-------:|:-----:|:--------------:|
+| state icon | color | ![ ](https://dummyimage.com/20x10/299ec2&amp;text=+) `#299ec2` | v2.0.1 | color: var(-- state-icon-active-color) |
+| active icon  | color | ![ ](https://dummyimage.com/20x10/ffd60a&amp;text=+) `#ffd60a` | v2.0.1 | color: var(--state-icon-color) |
+| unavailable icon | color | ![ ](https://dummyimage.com/20x10/a9b1bc&amp;text=+) `#a9b1bc` | v2.0.1 | color: var(--state-icon-unavailable-color) |
 
 
 ## Fonts 🎨

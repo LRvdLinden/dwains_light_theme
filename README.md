@@ -5,9 +5,6 @@
   <a href="https://github.com/LRvdLinden/dwains_light_theme">
     <img src="https://img.shields.io/github/v/release/LRvdLinden/dwains_light_theme" />
   </a>
-      <a href="https://github.com/LRvdLinden/dwains_light_theme">
-    <img src="https://img.shields.io/github/downloads/LRvdLinden/dwains_light_theme/latest/total?color=purple&label=%20release%20Downloads" />
-  </a>
       <a href="https://github.com/LRvdLinden/dwains_light_theme/commits">
     <img src="https://img.shields.io/github/last-commit/LRvdLinden/dwains_light_theme.svg?style=plasticr" />
   </a>

@@ -26,6 +26,10 @@
 
 <p align="center">Also take a look at <a href="https://github.com/LRvdLinden/dwains_dark_theme">Dwains Dark Theme</a></p> 
 
+| **Dwains Light Theme** | **Dwains Dark Theme** | 
+| ----------- | ----------  | 
+| ![Dwains Light Theme](https://user-images.githubusercontent.com/77990847/118010920-bf683d00-b34f-11eb-8f6d-776989c05a2f.png) | ![Dwains Dark Theme](https://user-images.githubusercontent.com/77990847/118010912-becfa680-b34f-11eb-88ec-f2b5d6be2e5a.png) | 
+
 ## Prerequisite ⚙️
 ---
 - Make sure you can access youre Home Assistant config files with [Samba Share](https://www.youtube.com/watch?v=udqY2CYzYGk)
@@ -116,6 +120,17 @@ primary-font-family: 'Open Sans' # <- if you whant to change the font, fill in d
 - Fill in the right [Google font](https://fonts.google.com/) name between `''`
 - Reboot Home Assistant
 
+## Dark and Light Theme 🎨
+---
+
+| Icon | Place | Type |
+|------|:-------:|:--------------:|
+| 🎨 | Lovelace Theme | [Dwains Light Theme](https://github.com/LRvdLinden/dwains_light_theme) | 
+| 🎨 | Lovelace Theme | [Dwains Dark Theme](https://github.com/LRvdLinden/dwains_dark_theme) | 
+
+| **Dwains Light Theme** | **Dwains Dark Theme** | 
+| ----------- | ----------  | 
+| ![Dwains Light Theme](https://user-images.githubusercontent.com/77990847/118010920-bf683d00-b34f-11eb-8f6d-776989c05a2f.png) | ![Dwains Dark Theme](https://user-images.githubusercontent.com/77990847/118010912-becfa680-b34f-11eb-88ec-f2b5d6be2e5a.png) | 
 
 ## Result
 ---
